@@ -1,41 +1,34 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Guru Karthikeya</h1>
 
-# Hi 👋, I'm Guru Karthikeya
+<h3 align="center">Integrated M.Tech (Data Science) Student | Machine Learning Enthusiast | Problem Solver</h3>
 
-### Data Science Student · Machine Learning Enthusiast · Problem Solver
-
-<p>
-  <img src="https://img.shields.io/badge/VIT%20Vellore-MTech%20Integrated%20(Data%20Science)-0A66C2?style=for-the-badge&logo=academia&logoColor=white" alt="VIT Vellore" />
-  <img src="https://img.shields.io/badge/Batch-2028-2EA44F?style=for-the-badge" alt="Batch 2028" />
-</p>
-
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=karthik1404-h&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-</div>
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing an **Integrated M.Tech in Data Science** at **Vellore Institute of Technology (VIT)**
+- 🌱 Currently learning **machine learning, deep learning and computer vision**
+- 🔭 Working on a **[Multimodal Deepfake Detector](https://github.com/Karthik1404-h/multimodal-deepfake-detector)**
+- 💡 Passionate about **Data Science, Machine Learning and Problem Solving**
+- 🧩 Practising **data structures and algorithms** on LeetCode
+- 👨‍💻 Explore my projects at: [github.com/karthik1404-h](https://github.com/karthik1404-h)
+- 📫 Reach me at: [Gurukarthikeya05@gmail.com](mailto:Gurukarthikeya05@gmail.com)
+- ⚡ Fun fact: I enjoy turning raw data into useful, real-world solutions
 
 ---
 
-## 👨‍💻 About Me
+## 🌐 Connect With Me
 
-I'm an **MTech Integrated (Data Science)** student at **VIT Vellore**, graduating in **2028**. I enjoy turning data into useful insights and building machine learning models, and I like backing that up with solid programming and problem-solving fundamentals.
-
-- 🎓 Pursuing MTech Integrated in Data Science at **VIT Vellore** (Class of 2028)
-- 🔭 Currently exploring **machine learning, deep learning and computer vision**
-- 🧩 Regularly practising **data structures and algorithms** on LeetCode
-- 🌱 Building end-to-end projects: data → model → deployed app
-- 🤝 Open to **internships, research collaborations and open-source contributions**
----
-
-## 🤝 Let's Connect
-
-I'm always happy to talk about data science, machine learning, coding problems or potential collaborations. Reach out through any of these:
-
-<p>
-  <a href="https://linkedin.com/in/rachakonda-karthik-guru-1404h"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Gurukarthikeya05@gmail.com"><img src="https://img.shields.io/badge/Email-Gurukarthikeya05@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.leetcode.com/karthik_140405"><img src="https://img.shields.io/badge/LeetCode-karthik__140405-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/rachakonda-karthik-guru-1404h" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  &nbsp;
+  <a href="https://www.leetcode.com/karthik_140405" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
+  &nbsp;
+  <a href="mailto:Gurukarthikeya05@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 ---
@@ -97,3 +90,7 @@ I'm always happy to talk about data science, machine learning, coding problems o
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik1404-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1404-h&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
+
+---
+
+<p align="center"><i>Made with ❤️ by Guru Karthikeya</i></p>
